@@ -34,3 +34,5 @@ const kecamatan_data = {
     '110113': 'KLUET TENGAH -- 23772', '110114': 'KLUET TIMUR -- 23772', 
     '110115': 'BAKONGAN TIMUR -- 23773'
 };
+
+module.exports = { provinsi_data, kabupaten_data, kecamatan_data };
